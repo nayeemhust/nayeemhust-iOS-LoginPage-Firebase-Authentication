@@ -1,9 +1,6 @@
-//
 //  WelcomeViewController.swift
-//  Lab 2_iOS_Nazmul_Alam_Nayeem
-//
+//  Lab 2_Fanshawe College_iOS_Nazmul_Alam_Nayeem
 //  Created by Nazmul Alam Nayeem on 2024-02-12.
-//
 
 import UIKit
 import FirebaseAuth
